@@ -9,8 +9,7 @@ def hello(name: str):
 def hello2(name: str):
     print(name.upper())
 
-from math import add
-
+from math import add_numbers
 
 def alex_Method(name):
     alex = Person(name)
